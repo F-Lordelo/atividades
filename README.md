@@ -79,8 +79,6 @@ Não tem acesso ao Github Copilot?! Não tem problema!! Que tal utilizar o **Cha
 - ✅ Compreensão de como comparar a string original com sua versão invertida
 - ✅ Introdução ao conceito de palíndromos e sua aplicação em problemas de programação
 
-
-
 ---
 
 **Bom estudo!** 🚀
