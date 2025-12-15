@@ -1,12 +1,6 @@
-# 🐍 Resolvendo Códigos em Python com o Github Copilot
+# 🐍 Resolvendo Códigos em Python com IA
 
-Olá!! Aqui veremos algumas resoluções de códigos em Python utilizando o **Github Copilot**.
-
----
-
-## ⚠️ Atenção
-
-Não tem acesso ao Github Copilot?! Não tem problema!! Que tal utilizar o **ChatGPT** como seu copiloto de estudos?
+Olá!! Aqui veremos algumas resoluções de códigos em Python utilizando o **IA**.
 
 ---
 
